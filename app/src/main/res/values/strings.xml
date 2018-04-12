@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AddAnEgg</string>
+
+    <string name="rb_home">主页</string>
+    <string name="rb_order">订单</string>
+    <string name="rb_me">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
